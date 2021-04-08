@@ -17,7 +17,7 @@ const store = createStore(rootReducer, applyMiddleware(thunk))
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "-------",
+  apiKey: "-----",
   authDomain: "instagram-dev-a2b4c.firebaseapp.com",
   projectId: "instagram-dev-a2b4c",
   storageBucket: "instagram-dev-a2b4c.appspot.com",
